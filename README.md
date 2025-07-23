@@ -1,1 +1,11 @@
 # Twitch Chat Styler
+This simple extension formats Twitch chat messages using Markdown syntax (like Discord pretty much).
+The formatting is purely client-side and will only display for people who have the extension enabled.
+
+<img width="305" height="260" alt="image" src="https://github.com/user-attachments/assets/c6c6d5dc-961a-4b92-8ea3-d28a272251b1" />
+
+This extension is dependant on 2 third-party libraries:
+* Marked (for parsing Markdown)
+* DOMPurify (for sanitizing HTML)
+
+Both of these have been attributed in the attributions.txt file.
