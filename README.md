@@ -1,1 +1,1 @@
-# Twitch Chat Styler
+# Twitch Chat Style
